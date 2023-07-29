@@ -1,2 +1,2 @@
-# Music Player - SEMEKOR
+# Buzz_Music_Player MAde by Semekor
 
