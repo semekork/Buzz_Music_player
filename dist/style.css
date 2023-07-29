@@ -388,3 +388,17 @@ body {
   pointer-events: none;
   opacity: 0;
 }
+
+body #watermark {
+  position: fixed;
+  font-size: 9em;
+  font-weight: 1000;
+  margin: 0 0 0 0;
+  padding: 0;
+  right: 0;
+  bottom: 0;
+  color: rgba(0, 0, 0, 0.228);
+  z-index: 0;
+  text-align: right;
+  font-family: "proxima-nova", "Lato", sans-serif;
+}
